@@ -1,7 +1,5 @@
 Enterprise Network Lab — Cisco Packet Tracer
 
-Overview
-
 A simulated enterprise network connecting Headquarters (HQ) and Branch 1 (BR1), built using Cisco Packet Tracer.
 
 Network Components::
@@ -47,3 +45,5 @@ Tested DHCP address assignment for branch clients.
 Tested network behavior during link or device failures.
 
 Tested Port Security by connecting an unauthorized device.
+
+<img width="1078" height="628" alt="Network Topology" src="https://github.com/user-attachments/assets/228881ee-fc40-47e7-b2d9-f2fe9d96c037" />view
